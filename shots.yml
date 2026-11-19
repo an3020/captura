@@ -1,5 +1,3 @@
-url: https://bna.com.ar/Personas
-wait: 7000
-full-page: true
-#   output: shot.png
-#   height: 800
+- url: https://bna.com.ar/Personas
+  output: temp.png
+  wait: 7000
