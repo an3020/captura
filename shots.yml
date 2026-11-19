@@ -1,3 +1,5 @@
-# - url: https://www.example.com/
+url: https://bna.com.ar/Personas
+wait: 7000
+full-page: true
 #   output: shot.png
 #   height: 800
